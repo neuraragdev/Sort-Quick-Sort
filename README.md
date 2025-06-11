@@ -1,4 +1,4 @@
-# Sort-Quick-Sort
+# Sorting-Quick-Sort
 
 **Quick Sort**
 Is an efficient sorting algorithm that uses the concept of Divide and Conquer in order to sort lists.
